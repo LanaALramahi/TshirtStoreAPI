@@ -10,10 +10,10 @@
 .env.local
 .env.development.local
 .env.test.local
-.env
-.rest
+*.env
 package-lock.json
 
 npm-debug.log*
 
 node_modules
+*.rest
